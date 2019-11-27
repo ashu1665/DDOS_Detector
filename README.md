@@ -11,3 +11,6 @@ The python script is used to detect ddos attack on system based on no of request
 
 # usage
 python3 ddos.py #(your ip)  
+
+# Screenshots
+![Test_RUN](https://github.com/ashu1665/DDOS_Detector/blob/master/Screenshot%20from%202019-11-27%2010-53-45.png) 

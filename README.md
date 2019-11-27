@@ -18,3 +18,7 @@ python3 ddos.py #(your ip)
 Starting DDOS  
 ![Starting DDOS](https://github.com/ashu1665/DDOS_Detector/blob/master/Screenshot%20from%202019-11-27%2011-18-40.png)  
 
+Detecting DDOS
+![Detecting DDOS](https://github.com/ashu1665/DDOS_Detector/blob/master/Screenshot%20from%202019-11-27%2011-35-23.png)  
+
+
